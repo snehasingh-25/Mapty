@@ -18,3 +18,4 @@ Users can click anywhere on the map to open a form where they can input workout 
 After submitting the form, the workout is added to the map as a marker and displayed in the workout list.
 Users can click on any workout in the list to zoom to its location on the map.
 
+Demo of the project: https://snehasingh-25.github.io/Mapty/
